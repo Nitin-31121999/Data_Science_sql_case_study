@@ -36,9 +36,12 @@ The project aims to provide the following insights:
 
 ## Key Insights
 
-![Screenshot 2025-06-25 094306](https://github.com/user-attachments/assets/b0ab174b-8f40-4fbe-838c-ee63364ed616)
-![Screenshot 2025-06-25 094318](https://github.com/user-attachments/assets/310bc4b0-c934-4620-a1d7-311dcc0818f7)
 ![Screenshot 2025-06-25 094326](https://github.com/user-attachments/assets/a0de501e-cf6d-4377-9a01-08b2313e5550)
+
+![Screenshot 2025-06-25 094318](https://github.com/user-attachments/assets/310bc4b0-c934-4620-a1d7-311dcc0818f7)
+
+![Screenshot 2025-06-25 094306](https://github.com/user-attachments/assets/b0ab174b-8f40-4fbe-838c-ee63364ed616)
+
 
 
 ## SQL Skills Applied
